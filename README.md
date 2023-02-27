@@ -1,8 +1,11 @@
-# Good Principles of Java
+# Good Principles when programming OOP.
 
-Series of good principles when programming in Java
+1. Correct implementation of Interfaces in Java
+- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/InterfacesJava"> Java </a>
 
-1. SOLID principles: cinco principios fundamentales de diseño de software
+Series of good principles when programming
+
+2. SOLID principles: cinco principios fundamentales de diseño de software
 - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/SolidPrinciplesJava"> Java </a>
 - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/SolidPrinciplesJavaScript"> JavaScript </a>
 
