@@ -1,7 +1,7 @@
 # Good Principles when programming OOP.
 
 1. Correct implementation of Interfaces in Java
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/JavaInterfaces"> Java </a>
+- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/InterfacesJava"> Java </a>
 
 Series of good principles when programming
 
