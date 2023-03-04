@@ -11,6 +11,9 @@ Series of good principles when programming
 
 3. Ejemplo de como levantar un contenedor Docker
 
-4. Patrón de diseño: Factory
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactory"> Java </a>
-
+4. Patrones de diseño: 
+  a. Factory
+    - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactory"> Java </a>
+    
+  b. Abstract Factory
+  c. Builder
