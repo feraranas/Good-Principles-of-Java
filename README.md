@@ -17,6 +17,6 @@
 b. Abstract Factory
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactory"> Java </a>
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactoryJavaScript"> JavaScript </a><br><br>
-&nbsp;&nbsp;c. Builder
+c. Builder
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenBuilder"> Java </a>
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBuilderJavaScript"> JavaScript </a>
