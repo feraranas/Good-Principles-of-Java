@@ -13,10 +13,10 @@
 4. Patrones de diseño: <br>
 &nbsp;&nbsp;a. Factory
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactory"> Java </a>
-    - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactoryJavaScript"> JavaScript </a>
+    - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactoryJavaScript"> JavaScript </a><br><br>
 &nbsp;&nbsp;b. Abstract Factory
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactory"> Java </a>
-    - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactoryJavaScript"> JavaScript </a>
+    - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactoryJavaScript"> JavaScript </a><br><br>
 &nbsp;&nbsp;c. Builder
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenBuilder"> Java </a>
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBuilderJavaScript"> JavaScript </a>
