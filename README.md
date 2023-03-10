@@ -1,7 +1,7 @@
 # Good Principles when programming.
 
 1. Correct implementation of Interfaces in Java
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/InterfacesJava"> Java </a>
+- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/JavaInterfaces"> Java </a>
 
 2. SOLID principles: five fundamental principles for OOP.
 - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/SolidPrinciplesJava"> Java </a>
@@ -23,4 +23,4 @@ c. Builder
 
 5. Multithreading
 - Java <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava"> [Example 1] </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava2"> [Example 2] </a>
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJavaScript"> JavaScript </a>
+- JavaScript <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJavaScript"> [Example] </a>
