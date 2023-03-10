@@ -22,5 +22,5 @@ c. Builder
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBuilderJavaScript"> JavaScript </a>
 
 5. Multithreading
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava"> Java </a>
-- - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJavaScript"> JavaScript </a>
+- Java <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava"> [Example 1] </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava2"> [Example 2] </a>
+- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJavaScript"> JavaScript </a>
