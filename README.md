@@ -20,3 +20,5 @@ b. Abstract Factory
 c. Builder
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenBuilder"> Java </a>
     - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBuilderJavaScript"> JavaScript </a>
+
+5. Multithreading
