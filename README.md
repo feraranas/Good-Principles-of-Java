@@ -10,12 +10,13 @@
 3. Using Docker containers. Why? You might ask.
 - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/WhyDocker"> Docker </a>
 
-4. Patrones de diseño: <br><br>&nbsp;&nbsp;
+4. Patrones de diseño: <br>&nbsp;&nbsp;
 
 | Patrón | Descripción | Ejemplos |
 | --- | --- | --- |
 | Factory | List all new or modified files | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactory"> Java </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactoryJavaScript"> JavaScript </a> |
-| Abstract Factory | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactory"> Java </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactoryJavaScript"> JavaScript </a> |
+| Abstract Factory | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactory"> Java </a>/
+<a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactoryJavaScript"> JavaScript </a> |
 | Builder | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenBuilder"> Java </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBuilderJavaScript"> JavaScript </a> |
 
 5. Multithreading
