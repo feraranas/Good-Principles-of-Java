@@ -18,6 +18,7 @@
 | Abstract Factory | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactory"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactoryJavaScript"> JavaScript </a> |
 | Builder | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenBuilder"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBuilderJavaScript"> JavaScript </a> |
 | Prototype | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoPrototype"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoPrototypeJavaScript"> JavaScript </a> |
+| Singleton | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoSingleton"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoSingletonJavaScript"> JavaScript </a> |
 
 5. Multithreading
 - Java <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava"> [Example 1] </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava2"> [Example 2] </a>
