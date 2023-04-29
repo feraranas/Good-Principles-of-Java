@@ -15,6 +15,7 @@
 | Patrón | Descripción | Ejemplos |
 | --- | --- | --- |
 | Factory | List all new or modified files | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactory"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoFactoryJavaScript"> JavaScript </a> |
+| Adapter | Adapter pattern | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAdapter"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractAdapterJavaScript"> JavaScript </a> |
 | Abstract Factory | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactory"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractFactoryJavaScript"> JavaScript </a> |
 | Builder | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenBuilder"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBuilderJavaScript"> JavaScript </a> |
 | Prototype | Show file differences that haven't been staged | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoPrototype"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoPrototypeJavaScript"> JavaScript </a> |
