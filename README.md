@@ -7,7 +7,9 @@
 - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/SolidPrinciplesJava"> Java </a>
 - <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/SolidPrinciplesJavaScript"> JavaScript </a>
 
-4. Patrones creacionales: <br>&nbsp;&nbsp;
+4. Patrones
+
+### Creacionales: <br>&nbsp;&nbsp;
 
 | Patrón | Descripción | Ejemplos |
 | --- | --- | --- |
@@ -19,18 +21,18 @@
 | Bridge | Te permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse independientemente la una de la otra. | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBridge"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBridgeJavaScript"> JavaScript </a> |
 
 
-5. Patrones estructurales: <br>&nbsp;&nbsp;
+### Estructurales: <br>&nbsp;&nbsp;
 
 | Patrón | Descripción | Ejemplos |
 | --- | --- | --- |
 | Adapter | Con este patrón, se define una interfaz o clase abstracta en la superclase que declara el método para crear un objeto, pero deja la implementación real de ese método a las subclases. | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAdapter"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoAbstractAdapterJavaScript"> JavaScript </a> |
 | Bridge | Te permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse independientemente la una de la otra. | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBridge"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBridgeJavaScript"> JavaScript </a> |
 
-6. Patrones conductuales: <br>&nbsp;&nbsp;
+### Conductuales: <br>&nbsp;&nbsp;
 
 | Patrón | Descripción | Ejemplos |
 | --- | --- | --- |
 
-7. Multithreading
+5. Multithreading
 - Java <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava"> [Example 1] </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava2"> [Example 2] </a>
 - JavaScript <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJavaScript"> [Example] </a>
