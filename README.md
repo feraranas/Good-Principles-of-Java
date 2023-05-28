@@ -1,13 +1,4 @@
-# Good Principles when programming.
-
-1. Correct implementation of Interfaces in Java
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/JavaInterfaces"> Java </a>
-
-2. SOLID principles: five fundamental principles for OOP.
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/SolidPrinciplesJava"> Java </a>
-- <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/SolidPrinciplesJavaScript"> JavaScript </a>
-
-4. Patrones
+1. Patrones
 
 ### Creacionales: <br>&nbsp;&nbsp;
 
@@ -28,10 +19,3 @@
 | Bridge | Te permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse independientemente la una de la otra. | <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBridge"> Java </a> / <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/PrincipioDisenoBridgeJavaScript"> JavaScript </a> |
 
 ### Conductuales: <br>&nbsp;&nbsp;
-
-| Patrón | Descripción | Ejemplos |
-| --- | --- | --- |
-
-5. Multithreading
-- Java <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava"> [Example 1] </a>, <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJava2"> [Example 2] </a>
-- JavaScript <a href="https://github.com/feraranas/Good-Principles-of-Java/tree/main/MultithreadingJavaScript"> [Example] </a>
